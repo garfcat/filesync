@@ -26,8 +26,8 @@ gsyncd.json
     "ip": "0.0.0.0",
     "port": 6776,
     "monitors": {
-        "home_elgs_desktop_a": "/home/garfcat/Desktop/a",
-        "home_elgs_desktop_b": "/home/garfcat/Desktop/b"
+        "home_garfcat_desktop_a": "/home/garfcat/Desktop/a",
+        "home_garfcat_desktop_b": "/home/garfcat/Desktop/b"
     }
 }
 ```
